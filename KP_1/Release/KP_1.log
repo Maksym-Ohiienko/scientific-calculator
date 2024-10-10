@@ -1,0 +1,8 @@
+﻿  Calculator.cpp
+C:\Users\Admin\source\repos\KP_1\KP_1\Calculator.cpp(645,23): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода
+  3 of 1579 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  KP_1.vcxproj -> C:\Users\Admin\source\repos\KP_1\Release\KP_1.exe

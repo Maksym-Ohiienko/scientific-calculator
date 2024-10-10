@@ -1,0 +1,15 @@
+﻿  Calculator.cpp
+C:\Users\Admin\source\repos\KP_1\KP_1\Calculator.cpp(387,25): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Admin\source\repos\KP_1\KP_1\Calculator.cpp(697,15): warning C4244: инициализация: преобразование "LRESULT" в "int", возможна потеря данных
+C:\Users\Admin\source\repos\KP_1\KP_1\Calculator.cpp(721,30): warning C4244: =: преобразование "LRESULT" в "int", возможна потеря данных
+C:\Users\Admin\source\repos\KP_1\KP_1\Calculator.cpp(744,16): warning C4244: инициализация: преобразование "LRESULT" в "int", возможна потеря данных
+C:\Users\Admin\source\repos\KP_1\KP_1\Calculator.cpp(765,16): warning C4244: инициализация: преобразование "LRESULT" в "int", возможна потеря данных
+C:\Users\Admin\source\repos\KP_1\KP_1\Calculator.cpp(951,23): warning C4267: аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
+C:\Users\Admin\source\repos\KP_1\KP_1\Calculator.cpp(1045,27): warning C4267: аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
+C:\Users\Admin\source\repos\KP_1\KP_1\Calculator.cpp(1058,15): warning C4244: инициализация: преобразование "LRESULT" в "int", возможна потеря данных
+C:\Users\Admin\source\repos\KP_1\KP_1\Calculator.cpp(1081,16): warning C4244: инициализация: преобразование "LRESULT" в "int", возможна потеря данных
+  WinMain.cpp
+C:\Users\Admin\source\repos\KP_1\KP_1\WinMain.cpp(72,15): warning C4244: return: преобразование "WPARAM" в "int", возможна потеря данных
+  Создание кода...
+  LINK : не найден или не выполнена сборка C:\Users\Admin\source\repos\KP_1\x64\Debug\KP_1.exe при последней инкрементной компоновке; выполняется полная компоновка
+  KP_1.vcxproj -> C:\Users\Admin\source\repos\KP_1\x64\Debug\KP_1.exe

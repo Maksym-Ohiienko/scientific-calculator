@@ -1,0 +1,4 @@
+﻿  LoadTime.cpp
+  LINK : не найден или не выполнена сборка C:\Users\Admin\source\repos\KP_1\x64\Debug\LTDLL.dll при последней инкрементной компоновке; выполняется полная компоновка
+     Создается библиотека C:\Users\Admin\source\repos\KP_1\x64\Debug\LTDLL.lib и объект C:\Users\Admin\source\repos\KP_1\x64\Debug\LTDLL.exp
+  LTDLL.vcxproj -> C:\Users\Admin\source\repos\KP_1\x64\Debug\LTDLL.dll

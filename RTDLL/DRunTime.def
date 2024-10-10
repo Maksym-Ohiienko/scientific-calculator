@@ -1,0 +1,14 @@
+LIBRARY RTDLL
+
+EXPORTS
+	constants	   DATA
+	decimalToBin   @1
+	decimalToOct   @2
+	decimalToHex   @3
+	binToDecimal   @4
+	octalToDecimal @5
+	hexToDecimal   @6
+	degToRad	   @7
+	radToDeg	   @8
+	funcOfNum	   @9
+	getConst	   @10

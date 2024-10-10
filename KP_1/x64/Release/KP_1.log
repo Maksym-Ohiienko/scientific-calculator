@@ -1,0 +1,18 @@
+﻿  Calculator.cpp
+C:\Users\Admin\source\repos\KP_1\KP_1\Calculator.cpp(181,20): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Admin\source\repos\KP_1\KP_1\Calculator.cpp(202,20): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Admin\source\repos\KP_1\KP_1\Calculator.cpp(227,20): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Admin\source\repos\KP_1\KP_1\Calculator.cpp(253,20): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Admin\source\repos\KP_1\KP_1\Calculator.cpp(282,20): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Admin\source\repos\KP_1\KP_1\Calculator.cpp(310,20): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Admin\source\repos\KP_1\KP_1\Calculator.cpp(499,40): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Admin\source\repos\KP_1\KP_1\Calculator.cpp(514,16): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Admin\source\repos\KP_1\KP_1\Calculator.cpp(925,25): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Admin\source\repos\KP_1\KP_1\Calculator.cpp(1189,16): warning C4244: инициализация: преобразование "LRESULT" в "int", возможна потеря данных
+C:\Users\Admin\source\repos\KP_1\KP_1\Calculator.cpp(1206,16): warning C4244: инициализация: преобразование "LRESULT" в "int", возможна потеря данных
+  Создание кода
+  7 of 1582 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  KP_1.vcxproj -> C:\Users\Admin\source\repos\KP_1\x64\Release\KP_1.exe
