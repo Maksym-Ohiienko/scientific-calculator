@@ -15,4 +15,4 @@
 ---
 Контакти:
 [GitHub](https://github.com/Maksym-Ohiienko)
-[Gmail](4yrbantyt777@gmail.com)
+[Gmail](https://mail.google.com/mail/?view=cm&fs=1&to=4yrbantyt777@gmail.com)
